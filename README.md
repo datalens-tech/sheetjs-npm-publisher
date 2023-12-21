@@ -8,9 +8,9 @@ that makes most of the community unable to access their package without
 It automatically takes a fresh version of SheetJS
 from their git repository, and publishes to npm if the version is different.
 The whole process is automated and works through Github Actions.
-
-## Why fork?
-We create fork of [original repository](https://github.com/e965/sheetjs-npm-publisher),
+> 
+>**Why fork?**  
+We created fork of [original repository](https://github.com/e965/sheetjs-npm-publisher),
 because we want to control integrity of published libraries. 
 
 The SheetJS Community Edition offers battle-tested open-source solutions for
